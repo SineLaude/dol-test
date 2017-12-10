@@ -12,7 +12,7 @@ institutionen[institutionen.length] = ['Gesetzbuch',			'index.php3?position=8500
 institutionen[institutionen.length] = ['Schiedsgericht',				'index.php3?position=8400']
 institutionen[institutionen.length] = ['SOKO',				'/index.php3?position=14000&ini_id=3918']
 //institutionen[institutionen.length] = ['Standesamt',					'index.php3?position=13000']
-institutionen[institutionen.length] = ['Parteigr&uuml;ndungen',			'index.php3?position=6200']
+//institutionen[institutionen.length] = ['Parteigr&uuml;ndungen',			'index.php3?position=6200']
 //institutionen[institutionen.length] = ['Volksinitiative',				'index.php3?position=14000&ini_id=8']
 
 institutionen[institutionen.length] = ['Initiativen',				0]
